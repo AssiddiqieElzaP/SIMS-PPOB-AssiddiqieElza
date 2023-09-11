@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 100%;
+  background-color: red;
+  color: white;
+}
+
+div label a {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+
+.header {
+  margin: 2rem;
+}
+
+div .card {
+  border: none;
+}
+
+.btn-2 {
+  width: 100%;
+  background-color: white;
+  color: red;
+  border-color: red;
+}
+
+.select-payment {
+  width: 95%;
+  height: 3rem;
+  border: rgb(97, 97, 97);
+  border-radius: 10px;
+}
+
+.input-topup {
+  margin-right: 10px;
+}
+
+.btn-topup {
+  width: 100%;
+}
+
+.btn-topup-mon {
+  height: 2rem;
+  border-radius: 5px;
+  margin: 10px;
+  background-color: white;
+}/*# sourceMappingURL=styles.css.map */
